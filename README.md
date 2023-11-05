@@ -1,5 +1,5 @@
 ## FAST_LIO_COLOR_MAPPING
-**An modified version of FAST-LIO2 that can generate RGB point cloud maps**
+**A modified version of FAST-LIO2 that can generate RGB point cloud maps**
 
 <p align="center">
   <img src="doc/indoor.png" height="500"/>
