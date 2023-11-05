@@ -28,8 +28,8 @@ Clone the repository and catkin_make:
 
 ```
     cd ~/$A_ROS_DIR$/src
-    git clone https://github.com/hku-mars/FAST_LIO.git
-    cd FAST_LIO
+    git clone https://github.com/YWL0720/FAST-LIO-COLOR-MAPPING.git
+    cd FAST_LIO_COLOR_MAPPING
     git submodule update --init
     cd ../..
     catkin_make
